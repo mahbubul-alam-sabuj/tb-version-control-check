@@ -49,7 +49,15 @@
   },
   "relations" : [ ],
   "attributes" : {
-    "SERVER_SCOPE" : [ ]
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fasfsad",
+      "lastUpdateTs" : 1692785246522,
+      "longValue" : null,
+      "strValue" : "fsafsa"
+    } ]
   },
   "groupEntities" : true,
   "permissions" : [ ]
