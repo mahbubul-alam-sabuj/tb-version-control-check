@@ -1,0 +1,35 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "0cbdaf90-34ef-11ee-87d2-4d8f816eb6e6"
+    },
+    "externalId" : null,
+    "name" : "Dashboard All",
+    "permissions" : {
+      "DASHBOARD_GROUP" : [ "ALL" ],
+      "DASHBOARD" : [ "ALL" ],
+      "WIDGET_TYPE" : [ "ALL" ],
+      "WIDGETS_BUNDLE" : [ "ALL" ]
+    },
+    "tenantId" : null,
+    "type" : "GENERIC",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1692017192956,
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "98e7a3c0-3aa0-11ee-834f-b5748aa0cf10"
+    },
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "0cbdaf90-34ef-11ee-87d2-4d8f816eb6e6"
+    }
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

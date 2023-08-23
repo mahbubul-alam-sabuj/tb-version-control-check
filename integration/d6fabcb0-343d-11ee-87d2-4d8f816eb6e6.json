@@ -1,0 +1,62 @@
+{
+  "entityType" : "INTEGRATION",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "allowCreateDevicesOrAssets" : true,
+    "configuration" : {
+      "baseUrl" : "https://pe-features.tesenso.cloud",
+      "replaceNoContentToOk" : "",
+      "enableSecurity" : false,
+      "downlinkUrl" : "https://api.thingpark.com/thingpark/lrc/rest/downlink",
+      "loriotDownlinkUrl" : "https://eu1.loriot.io/1/rest",
+      "createLoriotOutput" : false,
+      "sendDownlink" : false,
+      "server" : "eu1",
+      "domain" : "loriot.io",
+      "appId" : "",
+      "enableSecurityNew" : false,
+      "asId" : "",
+      "asIdNew" : "",
+      "asKey" : "",
+      "clientIdNew" : "",
+      "clientSecret" : "",
+      "maxTimeDiffInSeconds" : 60,
+      "httpEndpoint" : "https://pe-features.tesenso.cloud/api/v1/integrations/http/ef5de63b-220f-7aba-3b5f-da0356084155",
+      "headersFilter" : { },
+      "token" : "",
+      "credentials" : {
+        "type" : "basic",
+        "email" : "",
+        "password" : "",
+        "token" : ""
+      },
+      "metadata" : { }
+    },
+    "createdTime" : 1691315069947,
+    "debugMode" : false,
+    "defaultConverterId" : {
+      "entityType" : "CONVERTER",
+      "id" : "0bbc9580-343a-11ee-87d2-4d8f816eb6e6"
+    },
+    "downlinkConverterId" : null,
+    "edgeTemplate" : false,
+    "enabled" : true,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "INTEGRATION",
+      "id" : "d6fabcb0-343d-11ee-87d2-4d8f816eb6e6"
+    },
+    "name" : "Test2",
+    "remote" : false,
+    "routingKey" : "ef5de63b-220f-7aba-3b5f-da0356084155",
+    "secret" : "ozqqwrpcl32ld693hcb9",
+    "tenantId" : null,
+    "type" : "HTTP"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

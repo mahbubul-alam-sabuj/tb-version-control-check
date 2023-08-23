@@ -1,0 +1,71 @@
+{
+  "entityType" : "ENTITY_GROUP",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "configuration" : {
+      "columns" : [ {
+        "type" : "ENTITY_FIELD",
+        "key" : "created_time",
+        "sortOrder" : "DESC"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "first_name",
+        "sortOrder" : "NONE"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "last_name",
+        "sortOrder" : "NONE"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "email",
+        "sortOrder" : "NONE"
+      } ],
+      "settings" : { },
+      "actions" : { }
+    },
+    "createdTime" : 1692017208818,
+    "edgeGroupAll" : false,
+    "externalId" : null,
+    "groupAll" : false,
+    "id" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "a25bfd20-3aa0-11ee-834f-b5748aa0cf10"
+    },
+    "name" : "Dashboard Users",
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "0cbdaf90-34ef-11ee-87d2-4d8f816eb6e6"
+    },
+    "type" : "USER"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "groupEntities" : true,
+  "permissions" : [ {
+    "entityGroupId" : null,
+    "entityGroupType" : null,
+    "roleId" : {
+      "entityType" : "ROLE",
+      "id" : "98e7a3c0-3aa0-11ee-834f-b5748aa0cf10"
+    },
+    "tenantId" : {
+      "entityType" : "TENANT",
+      "id" : "f2b8b790-341a-11ee-87d2-4d8f816eb6e6"
+    },
+    "userGroupId" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "a25bfd20-3aa0-11ee-834f-b5748aa0cf10"
+    },
+    "createdTime" : 1692017235974,
+    "id" : {
+      "entityType" : "GROUP_PERMISSION",
+      "id" : "b28baa60-3aa0-11ee-834f-b5748aa0cf10"
+    },
+    "name" : "GENERIC_[a25bfd20-3aa0-11ee-834f-b5748aa0cf10]_[98e7a3c0-3aa0-11ee-834f-b5748aa0cf10]",
+    "public" : false
+  } ]
+}

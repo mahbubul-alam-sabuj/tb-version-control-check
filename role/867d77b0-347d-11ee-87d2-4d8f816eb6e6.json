@@ -1,0 +1,30 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "name" : "Generic Device Group Permission",
+    "permissions" : {
+      "DEVICE_GROUP" : [ "READ" ],
+      "DEVICE" : [ "READ", "CREATE" ]
+    },
+    "tenantId" : null,
+    "type" : "GENERIC",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1691342422699,
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "867d77b0-347d-11ee-87d2-4d8f816eb6e6"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "entityType" : "ENTITY_GROUP",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "configuration" : {
+      "columns" : [ ],
+      "settings" : {
+        "enableCredentialsManagement" : true,
+        "groupTableTitle" : "",
+        "enableSearch" : true,
+        "enableAdd" : true,
+        "enableDelete" : true,
+        "enableSelection" : true,
+        "enableGroupTransfer" : true,
+        "detailsMode" : "onActionButtonClick",
+        "displayPagination" : true,
+        "defaultPageSize" : 10
+      },
+      "actions" : { }
+    },
+    "createdTime" : 1691596375114,
+    "edgeGroupAll" : false,
+    "externalId" : null,
+    "groupAll" : false,
+    "id" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "cdeccaa0-36cc-11ee-8be3-ef8630ffcbc3"
+    },
+    "name" : "Test Group 1",
+    "ownerId" : {
+      "entityType" : "TENANT",
+      "id" : "f2b8b790-341a-11ee-87d2-4d8f816eb6e6"
+    },
+    "type" : "DEVICE"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "groupEntities" : true
+}

@@ -1,0 +1,27 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "name" : "Device Group Permission For Customer",
+    "permissions" : [ "DELETE", "READ", "CREATE" ],
+    "tenantId" : null,
+    "type" : "GROUP",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1691596466346,
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "044db0a0-36cd-11ee-8be3-ef8630ffcbc3"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

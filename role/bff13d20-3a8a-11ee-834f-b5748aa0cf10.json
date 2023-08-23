@@ -1,0 +1,31 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "name" : "Device Group All",
+    "permissions" : {
+      "DEVICE_GROUP" : [ "ALL" ],
+      "DEVICE" : [ "ALL" ],
+      "DEVICE_PROFILE" : [ "READ" ]
+    },
+    "tenantId" : null,
+    "type" : "GENERIC",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1692007809522,
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "bff13d20-3a8a-11ee-834f-b5748aa0cf10"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

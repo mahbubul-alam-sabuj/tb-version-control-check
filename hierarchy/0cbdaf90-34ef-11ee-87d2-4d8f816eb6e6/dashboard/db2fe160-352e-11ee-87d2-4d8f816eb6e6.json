@@ -1,0 +1,33 @@
+{
+  "entityType" : "DASHBOARD",
+  "entity" : {
+    "assignedCustomers" : null,
+    "configuration" : {
+      "description" : ""
+    },
+    "createdTime" : 1691418585718,
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "0cbdaf90-34ef-11ee-87d2-4d8f816eb6e6"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "DASHBOARD",
+      "id" : "db2fe160-352e-11ee-87d2-4d8f816eb6e6"
+    },
+    "image" : null,
+    "mobileHide" : false,
+    "mobileOrder" : null,
+    "name" : "DADA",
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "0cbdaf90-34ef-11ee-87d2-4d8f816eb6e6"
+    },
+    "tenantId" : null,
+    "title" : "DADA"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

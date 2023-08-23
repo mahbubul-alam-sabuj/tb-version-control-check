@@ -1,0 +1,27 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "name" : "Change Owner Group Role",
+    "permissions" : [ "DELETE", "READ" ],
+    "tenantId" : null,
+    "type" : "GROUP",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1691325847587,
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "eef41730-3456-11ee-87d2-4d8f816eb6e6"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

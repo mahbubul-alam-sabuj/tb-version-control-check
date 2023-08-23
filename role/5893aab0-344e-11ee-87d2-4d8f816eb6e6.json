@@ -1,0 +1,30 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "name" : "Change Owner",
+    "permissions" : {
+      "DEVICE_GROUP" : [ "READ" ],
+      "DEVICE" : [ "READ" ]
+    },
+    "tenantId" : null,
+    "type" : "GENERIC",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1691322159323,
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "5893aab0-344e-11ee-87d2-4d8f816eb6e6"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

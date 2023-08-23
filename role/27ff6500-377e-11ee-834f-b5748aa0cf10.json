@@ -1,0 +1,29 @@
+{
+  "entityType" : "ROLE",
+  "entity" : {
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "name" : "Generic Read",
+    "permissions" : {
+      "ALL" : [ "READ", "RPC_CALL", "READ_ATTRIBUTES", "READ_CREDENTIALS", "READ_TELEMETRY" ]
+    },
+    "tenantId" : null,
+    "type" : "GENERIC",
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1691672547152,
+    "id" : {
+      "entityType" : "ROLE",
+      "id" : "27ff6500-377e-11ee-834f-b5748aa0cf10"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
