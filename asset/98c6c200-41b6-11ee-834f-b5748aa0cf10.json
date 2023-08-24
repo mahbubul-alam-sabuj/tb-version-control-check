@@ -1,0 +1,27 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1692796299808,
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "98c6c200-41b6-11ee-834f-b5748aa0cf10"
+    },
+    "label" : null,
+    "name" : "tesfds",
+    "ownerId" : null,
+    "tenantId" : null,
+    "type" : "fasdf"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

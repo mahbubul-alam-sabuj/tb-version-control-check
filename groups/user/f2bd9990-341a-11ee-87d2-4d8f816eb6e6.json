@@ -67,6 +67,6 @@
       "strValue" : "fdsaafdsfd"
     } ]
   },
-  "groupEntities" : false,
+  "groupEntities" : true,
   "permissions" : [ ]
 }

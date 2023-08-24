@@ -1,0 +1,27 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "createdTime" : 1692790539554,
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "2f65c020-41a9-11ee-834f-b5748aa0cf10"
+    },
+    "label" : null,
+    "name" : "asset",
+    "ownerId" : null,
+    "tenantId" : null,
+    "type" : "dfsaafsf"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
