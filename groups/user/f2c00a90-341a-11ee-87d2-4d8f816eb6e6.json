@@ -40,31 +40,5 @@
     },
     "type" : "USER"
   },
-  "attributes" : {
-    "SERVER_SCOPE" : [ ]
-  },
-  "groupEntities" : false,
-  "permissions" : [ {
-    "entityGroupId" : null,
-    "entityGroupType" : null,
-    "roleId" : {
-      "entityType" : "ROLE",
-      "id" : "2183dc70-3511-11ee-87d2-4d8f816eb6e6"
-    },
-    "tenantId" : {
-      "entityType" : "TENANT",
-      "id" : "f2b8b790-341a-11ee-87d2-4d8f816eb6e6"
-    },
-    "userGroupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "f2c00a90-341a-11ee-87d2-4d8f816eb6e6"
-    },
-    "createdTime" : 1691477204376,
-    "id" : {
-      "entityType" : "GROUP_PERMISSION",
-      "id" : "56a14180-35b7-11ee-87d2-4d8f816eb6e6"
-    },
-    "name" : "GENERIC_[f2c00a90-341a-11ee-87d2-4d8f816eb6e6]_[2183dc70-3511-11ee-87d2-4d8f816eb6e6]",
-    "public" : false
-  } ]
+  "groupEntities" : false
 }
